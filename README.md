@@ -5,7 +5,7 @@ A containerized SCADA for a rover.
 [Visit the live demo](https://scada.teoo.io)
 
 ## 📍 Getting Started
-TBT
+TBC
 
 ### 🐳 Docker
 First, make sure Docker is installed. Then, from the repository directory, build the Docker image from source, and run it.
